@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/res"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/google-api-client-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/google-api-client-android-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/google-api-client-appengine-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/google-api-client-gson-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/google-api-client-jackson2-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/google-api-client-java6-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/google-api-client-servlet-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/google-http-client-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/google-http-client-android-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/google-http-client-appengine-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/google-http-client-gson-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/google-http-client-jackson2-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/google-http-client-jdo-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/google-oauth-client-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/google-oauth-client-appengine-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/google-oauth-client-java6-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/google-oauth-client-jetty-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/google-oauth-client-servlet-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/gson-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/httpclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/jackson-core-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/jdo2-api-2.3-eb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/jetty-6.1.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/libs/transaction-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/drive/google-api-services-drive-v2-rev155-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/lwjgl/slick-util/lib/ibxm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/lwjgl/slick-util/lib/jogg-0.0.7.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Greg/Desktop/lwjgl 2.9.1/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/lwjgl/slick-util/lib/jorbis-0.0.15.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Greg/Desktop/lwjgl 2.9.1/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/lwjgl/slick-util/lib/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Greg/Desktop/lwjgl 2.9.1/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/lwjgl/slick-util/lib/lwjgl_util.jar" sourcepath="C:/Users/Greg/Desktop/lwjgl/slick-util.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/lwjgl/slick-util/lib/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/lwjgl/slick-util/lib/slick-util.jar" sourcepath="C:/Users/Greg/Desktop/lwjgl/slick-util.zip">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Greg/Desktop/lwjgl/lwjgl-2.9.1/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/docs/poi-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/docs/poi-ooxml-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/docs/poi-ooxml-schemas-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/docs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/docs/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/docs/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/docs/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greg/Desktop/YEYE (5)/docs/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
