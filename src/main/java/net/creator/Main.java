@@ -1,10 +1,6 @@
 package net.creator;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-
-import com.google.api.services.drive.model.File;
 
 public class Main {
 	private static String User;
@@ -66,7 +62,7 @@ public class Main {
 			
 		}
 		
-		
+		new Thread(new WaitScreen("WAIT")).run();
 		SetupScreen sc = new SetupScreen();
 		sc.setup();
 		setupopen = true;
